@@ -1,4 +1,4 @@
-## Olá, me chamo Gabriel Borges
+## Olá, me chamo **Gabriel Borges**, Python Developer
 
 - Trabalho há 3 meses como freelancer
 - Bacharelando em Engenharia da Computação | UPE
@@ -8,19 +8,19 @@
   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
 </head>
-<div padding=5px>
+<div>
   <a href="https://github.com/devgabrielsborges">
   
   <img align= "center" height="180em" src="https://github-readme-stats.vercel.app/api?username=devgabrielsborges&theme=ambient_gradient&show_icons=true&rank_icon=percentile">
   <img align= "center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrielsborges&layout=donut&theme=ambient_gradient"/>
   
   <div>
-    <img align="center" alt="Borges-Py" height="75" width="135" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg">
-    <img align="center" alt="Borges-Pd" height="75" width="135" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">
-    <img align="center" alt="Borges-Flask" height="75" width="135" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg">
-    <img align="center" alt="Borges-JS" height="75" width="135" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-    <img align="center" alt="Borges-JS" height="75" width="135" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-    <img align="center" alt="Borges-JS" height="75" width="135" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+    <img align="center" alt="Borges-Py" height="60" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg">
+    <img align="center" alt="Borges-Pd" height="60" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">
+    <img align="center" alt="Borges-Flask" height="60" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg">
+    <img align="center" alt="Borges-JS" height="60" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+    <img align="center" alt="Borges-JS" height="60" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+    <img align="center" alt="Borges-JS" height="60" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
     
   </div>
   <div>
