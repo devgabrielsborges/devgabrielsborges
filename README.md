@@ -2,7 +2,7 @@
 
 <div align="center">
   
- - Trabalho há 3 meses como freelancer
+ - Trabalho há 6 meses como freelancer
  - Bacharelando em Engenharia da Computação | UPE
   
 </div>
@@ -10,7 +10,7 @@
 <div align="center">
   <a href="https://github.com/devgabrielsborges">
   
-  <img align= "center" height="180em" src="https://github-readme-stats.vercel.app/api?username=devgabrielsborges&theme=github_dark&show_icons=true&rank_icon=percentile">
+  <img align= "center" height="180em" src="https://github-readme-stats.vercel.app/api?username=devgabrielsborges&theme=github_dark">
   <img align= "center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrielsborges&layout=donut&theme=github_dark"/>
   
   <div align="center">
