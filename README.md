@@ -1,29 +1,84 @@
-## Olá, me chamo **Gabriel Borges**, Python Developer
+# Olá, me chamo **Gabriel Borges** <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30" />
 
-<div align="center">
+## About Me:    
+I'm a **python developer** passionate about **RPA**, **machine learning**, and **developing automation solutions** for the job market. Actually based in Recife, Brazil.
+
+- Open to project collaborations
+- You can reach me through: <a href="mailto:dev.gabrielsborges@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://wa.me/5581999944274" title="Whatsapp"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a> <a href="https://www.linkedin.com/in/devgabrielsborges/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
+<a href="https://instagram.com/gabrielsborgees" title="Instagram"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" align="center"/></a>
+- **NOTE** : You can **fork** and **contribute** to any of the projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" />   
+
+## Working on: 🚀
+
+- Writing [Main Python Libraries and Frameworks](https://github.com/devgabrielsborges/Main-Python-Librarys) 
+- Developing [X-Bot](https://github.com/devgabrielsborges/X-Bot)
+- Learning AI Agents
+
+
+## Languages and Tools 
+<div>
+
+### Languages:
+| Python3 | C# | JS |
+|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |
+
   
- - Trabalho há 6 meses como freelancer
- - Bacharelando em Engenharia da Computação | UPE
+
+### Best frameworks and main libraries for Python3:
+
+| Selenium | Numpy | Pandas | Qt | Streamlit | OpenCV |
+|----------|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="qt" alt="qt" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" title="streamlit" alt="streamlit" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="opencv" alt="streamlit" width="55" height="55"/>|
+
+
+
+### My tools for Data Manipulation:
+
+| Conda | Jupyter | MySQL | Postgres | SQLite |
+|----------|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="pg" alt="pg" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>|
+
+
+
+  
+### Environments, Testing, Other:
+
+| Git | Docker | Pytest | Postman |
+|----------|----------|----------|----------|
+|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>|
+
+### Additional Tools.
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="xml" alt="xml" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="yaml" alt="yaml" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="json" alt="json" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vsc" alt="vsc" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PC" alt="PC" width="30" height="30"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" alt="GitLab" width="30" height="30"/>
+
   
 </div>
 
-<div align="center">
-  <a href="https://github.com/devgabrielsborges">
+---
+
   
-  <img align= "center" height="180em" src="https://github-readme-stats.vercel.app/api?username=devgabrielsborges&theme=github_dark">
-  <img align= "center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrielsborges&layout=donut&theme=github_dark"/>
-  
-  <div align="center">
-    <br>
-    <img align="center" alt="Borges-Py" height="60" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg">
-    <img align="center" alt="Borges-JS" height="60" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-    <img align="center" alt="Borges-HTML" height="60" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-    <img align="center" alt="Borges-CSS" height="60" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  </div>
-  <div align="center">
-      <br>
-      <a href="https://instagram.com/gabrielsborgees" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-      <a href = "mailto:devgabrielsborges@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  </div>
-         
-</div>
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=devgabrielsborges&theme=blue-green&title_color=00b3ff&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+
+---
+
+
+
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=devgabrielsborges&show_icons=true&theme=blue-green&title_color=00b3ff">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrielsborges&size_weight=0.0005&count_weight=0.3&layout=compact&theme=blue-green&title_color=00b3ff">
+</p>
+ 
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
