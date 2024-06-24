@@ -76,9 +76,3 @@ I'm a **python developer** passionate about **RPA**, **machine learning**, and *
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=devgabrielsborges&show_icons=true&theme=blue-green&title_color=00b3ff">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrielsborges&size_weight=0.0005&count_weight=0.3&layout=compact&theme=blue-green&title_color=00b3ff">
 </p>
- 
-
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
