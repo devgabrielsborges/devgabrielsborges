@@ -10,7 +10,7 @@ I'm a **python developer** passionate about **RPA**, **Web Scraping**, **Machine
 
 ## Working on: 🚀
 
-- **[Main Python Libraries and Frameworks](https://github.com/devgabrielsborges/Main-Python-Librarys)**: Documenting and writing about essential Python libraries.
+- **[Carpenter](https://github.com/devgabrielsborges/Carpenter)**: A powerful job scraper for developers.
 - **[X-Bot](https://github.com/devgabrielsborges/X-Bot)**: Developing an advanced bot for automation tasks.
 - **Learning**: AI Agents.
 
