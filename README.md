@@ -3,6 +3,8 @@
 ## About Me:    
 I'm a **python developer** passionate about **RPA**, **Web Scraping**, **Machine Learning**. Actually based in Recife, Brazil.
 
+Dream Theater, A7X big fan ;D.
+
 - Open to project collaborations
 - You can reach me through: <a href="mailto:dev.gabrielsborges@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://www.linkedin.com/in/devgabrielsborges/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
 <a href="https://instagram.com/gabrielsborgees" title="Instagram"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" align="center"/></a>
@@ -11,7 +13,8 @@ I'm a **python developer** passionate about **RPA**, **Web Scraping**, **Machine
 ## Working on: 🚀
 
 - **[Carpenter](https://github.com/devgabrielsborges/Carpenter)**: A powerful job scraper for developers.
-- **[X-Bot](https://github.com/devgabrielsborges/X-Bot)**: Developing an advanced bot for automation tasks.
+- **[X-Bot](https://github.com/devgabrielsborges/X-Bot)**: X (Twitter) bot for AI Generated automated posts for product offers.
+- **[Doing](https://github.com/devgabrielsborges/Doing)**: Terminal based ToDO application that syncs with tasks from Google Tasks. 
 - **Learning**: AI Agents.
 
 
