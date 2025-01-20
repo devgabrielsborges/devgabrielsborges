@@ -1,7 +1,8 @@
 # Olá, me chamo **Gabriel Borges** <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30" />
 
 ## About Me:    
-I'm a **python developer** passionate about **RPA**, **Web Scraping**, **Machine Learning**. Actually based in Recife, Brazil.
+Full-Stack Developer | Angular | Typescript | FastAPI | Flask | SQLite3 | Web Scraping | Task Automation | RPA | CS50's Certificate | B.Sc. Student of Computer Engineering at Universidade de Pernambuco. 
+Actually based in Recife, Brazil.
 
 Dream Theater, A7X big fan ;D.
 
@@ -14,38 +15,17 @@ Dream Theater, A7X big fan ;D.
 
 - **[Carpenter](https://github.com/devgabrielsborges/Carpenter)**: A powerful job scraper for developers.
 - **[X-Bot](https://github.com/devgabrielsborges/X-Bot)**: X (Twitter) bot for AI Generated automated posts for product offers.
-- **[Doing](https://github.com/devgabrielsborges/Doing)**: Terminal based ToDO application that syncs with tasks from Google Tasks. 
-- **Learning**: AI Agents.
+- **[Scrivener](https://github.com/devgabrielsborges/Scrivener)**: CLI ToDO application that syncs with tasks from Google Tasks.
 
 
 ## Languages and Tools 
 <div>
 
 ### Languages:
-| Python3 | C# | JS | C 
+| Python | TS | JS | C 
 |----------|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="55" height="55"/>
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript"  alt="TypeScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="55" height="55"/>
   
-### Environments, Testing, Other:
-
-| Git | Docker | Pytest | Postman |
-|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" alt="pytest" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" alt="Postman" width="55" height="55"/>|
-  
-</div>
-
----
-
-  
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=devgabrielsborges&theme=blue-green&title_color=00b3ff&hide_border=true&border_radius=5&card_width=800">
-</p>
-
-
----
-
-
-
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=devgabrielsborges&show_icons=true&theme=blue-green&title_color=00b3ff">
