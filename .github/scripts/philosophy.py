@@ -12,18 +12,19 @@ class Philosophy:
             count = 0
         finally:
             return count
-        
+
     @staticmethod
     def get_quote(count: int) -> str:
         body = ""
         try:
-            while body == "" or len(body) > 50:
-                body = requests.get(f"https://philosophyapi.pythonanywhere.com/api/ideas/{randint(1, count or 10)}/").json()['quote']
+            while body == "" or len(body) > 60:
+                response = requests.get(f"https://philosophyapi.pythonanywhere.com/api/ideas/{randint(1, count or 10)}/").json()
+                body = f"{response['quote']}\n{response['author']}"
         except Exception:
             body = "Attention is all you need"
         finally:
             return body
-        
+
     @staticmethod
     def update_h1(quote: str, readme_path="README.md"):
         try:
@@ -32,10 +33,10 @@ class Philosophy:
         except FileNotFoundError:
             print(f"Error: README file not found at {readme_path}")
             return False
-        
+
         md_pattern = r'# <img[^>]*> .*'
         html_pattern = r'<h1[^>]*><img[^>]*> .*?<\/h1>'
-        
+
         if re.search(md_pattern, content):
             updated_content = re.sub(
                 r'# (<img[^>]*>) .*', 
@@ -51,7 +52,7 @@ class Philosophy:
         else:
             print("Error: Could not find H1 section in README")
             return False
-        
+
         try:
             with open(readme_path, "w") as f:
                 f.write(updated_content)
