@@ -1,6 +1,13 @@
-import os
 from repo import Repository
 from philosophy import Philosophy
+import os
+
+philosophy = Philosophy()
+count = philosophy.get_count()
+quote, author = philosophy.get_quote(count)
+
+philosophy.update_h1(quote)
+philosophy.create_author_h3(author)
 
 oculted_repos_str = os.getenv("OCULTED_REPOS", "")
 oculted_repos = [repo.strip() for repo in oculted_repos_str.split(",")] if oculted_repos_str else []
@@ -14,16 +21,6 @@ repo = Repository(
     working_on_section=working_on_section
 )
 
-try:
-    repo.populate_active_repos()
-    repo.append_working_section()
-    repo.update_readme()
-    print("README.md updated successfully!")
-except Exception as e:
-    print(f"Error updating README: {e}")
-    exit(1)
-
-count = Philosophy.get_count()
-quote = Philosophy.get_quote(count)
-
-Philosophy.update_h1(quote)
+repo.populate_active_repos()
+repo.append_working_section()
+repo.update_readme()
