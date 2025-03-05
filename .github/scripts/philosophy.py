@@ -78,11 +78,9 @@ class Philosophy:
             print(f"Error: README file not found at {readme_path}")
             return False, None
 
-        # Padrão para encontrar o h3 do autor
         author_pattern = r'<h3 align="center"><em>— .*?</em></h3>\s*\n*'
 
         if re.search(author_pattern, content):
-            # Remove o h3 do autor
             updated_content = re.sub(author_pattern, '', content)
 
             try:
@@ -94,7 +92,6 @@ class Philosophy:
                 print(f"Error writing to README: {e}")
                 return False, None
         else:
-            # Não há h3 para remover
             return True, content
 
     @staticmethod
@@ -103,7 +100,6 @@ class Philosophy:
         if not success:
             return False
 
-        # Padrão para encontrar o final do h1
         html_pattern = r'<h1[^>]*>.*?<\/h1>'
 
         h1_match = re.search(html_pattern, content)
