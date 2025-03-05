@@ -22,7 +22,10 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install requests PyGithub
-
+      - name: Prepare README
+        run: |
+          rm README.md
+          cp base.md README.md
       - name: Update README with active repositories
         run: python .github/scripts/main.py
         env:
