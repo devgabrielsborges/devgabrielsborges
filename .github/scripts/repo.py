@@ -171,20 +171,20 @@ class Repository:
         print(f"README updated successfully: {self.readme_path}")
 
     def append_working_section(self):
-    """
-    Gera a seção "Working on" do README.
-    Este método é mantido para compatibilidade com scripts existentes.
-    """
-    current_date = datetime.now().strftime("%Y-%m-%d")
+        """
+        Gera a seção "Working on" do README.
+        Este método é mantido para compatibilidade com scripts existentes.
+        """
+        current_date = datetime.now().strftime("%Y-%m-%d")
+        
+        new_cards = ""
+        for i, repo in enumerate(self.active_repos):
+            new_cards += self.generate_card(repo, i)
+        
+        self.working_on_section = f"""## 🚀 Working on:
     
-    new_cards = ""
-    for i, repo in enumerate(self.active_repos):
-        new_cards += self.generate_card(repo, i)
+    {new_cards}<div style="clear: both;"></div>
     
-    self.working_on_section = f"""## 🚀 Working on:
-
-{new_cards}<div style="clear: both;"></div>
-
-<p align="right"><em>Last updated: {current_date}</em></p>
-"""
-    print(f"Generated content for {len(self.active_repos)} repositories")
+    <p align="right"><em>Last updated: {current_date}</em></p>
+    """
+        print(f"Generated content for {len(self.active_repos)} repositories")
