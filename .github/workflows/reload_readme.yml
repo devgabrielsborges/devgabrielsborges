@@ -2,8 +2,8 @@ name: Update README with Active Projects
 
 on:
   schedule:
-    - cron: '0 */12 * * *'  # Run every 12 hours
-  workflow_dispatch:  # Allow manual triggers
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -24,9 +24,11 @@ jobs:
           pip install requests PyGithub
 
       - name: Update README with active repositories
-        run: python .github/scripts/update_readme.py
+        run: python .github/scripts/main.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+          OCULTED_REPOS: ${{ secrets.OCULTED_REPOS }}
           
       - name: Commit and push changes
         run: |
