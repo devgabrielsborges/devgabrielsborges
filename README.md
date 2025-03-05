@@ -1,33 +1,41 @@
-# <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30" />
+<h1 align="center"><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30" /> Attention is all you need</h1>
 
-## About Me:
+<div style="padding: 15px; margin-top: 20px; margin-bottom: 20px;">
 
-Full-Stack Developer | Angular | Typescript | FastAPI | Flask | SQLite3 | Web Scraping | Task Automation | RPA | CS50's Certificate | B.Sc. Student of Computer Engineering at Universidade de Pernambuco.
-Actually based in Recife, Brazil.
+## 🚀 Working on:
 
-<p>
-      <a href="mailto:dev.gabrielsborges@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://www.linkedin.com/in/devgabrielsborges/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
-<a href="https://instagram.com/gabrielsborgees" title="Instagram"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" align="center"/></a>
-      
-</p>
+<div align="left" style="width: 48%; float: left; clear: both; margin-bottom: 20px; border: 1px solid #2f80ed; border-radius: 10px; padding: 16px; background-color: #0d1117;">
+  <h3><a href="https://github.com/devgabrielsborges/The-Jungle">The-Jungle</a></h3>
+  <p>The Jungle - Java LPOO</p>
+</div>
 
-Dream Theater, A7X big fan 
+<div align="right" style="width: 48%; float: right; clear: both; margin-bottom: 20px; border: 1px solid #2f80ed; border-radius: 10px; padding: 16px; background-color: #0d1117;">
+  <h3><a href="https://github.com/devgabrielsborges/X-Bot">X-Bot</a></h3>
+  <p>X-Bot is a Twitter automation bot that posts promotional tweets using data stored in Firebase, generates text with AI via Groq Cloud, and sends notifications via SMS with the Twilio API.</p>
+</div>
 
+<div align="left" style="width: 48%; float: left; clear: both; margin-bottom: 20px; border: 1px solid #2f80ed; border-radius: 10px; padding: 16px; background-color:#0d1117;">
+  <h3><a href="https://github.com/devgabrielsborges/Carpenter">Carpenter</a></h3>
+  <p>This project is a job scraping tool that extracts job listings from Jobrapido and Glassdoor. It allows users to search for job titles and export the results to CSV files.</p>
+</div>
 
-## Working on: 🚀
+<div style="clear: both;"></div>
 
-*Last updated: 2025-03-05*
+<p align="right"><em>Last updated: 2025-03-05</em></p>
 
-- [The-Jungle](https://github.com/devgabrielsborges/The-Jungle) - The Jungle - Java LPOO
-- [X-Bot](https://github.com/devgabrielsborges/X-Bot) - X-Bot is a Twitter automation bot that posts promotional tweets using data stored in Firebase, generates text with AI via Groq Cloud, and sends notifications via SMS with the Twilio API.
-- [Carpenter](https://github.com/devgabrielsborges/Carpenter) - This project is a job scraping tool that extracts job listings from Jobrapido and Glassdoor. It allows users to search for job titles and export the results to CSV files.
-## Languages and Tools
+</div>
 
-<div>
+---
 
-<p align="left">
-      <img width="600" height="200"         src="https://github-readme-stats.vercel.app/api?username=devgabrielsborges&show_icons=true&theme=blue-green&title_color=00b3ff">
-</p>
-<p align="right">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrielsborges&size_weight=0.5&count_weight=0.3&layout=compact&theme=blue-green&title_color=00b3ff">
-</p>
+<div class="stats">
+  <img align="left" width="49%" height="180" src="https://github-readme-stats.vercel.app/api?username=devgabrielsborges&show_icons=true&theme=blue-green&title_color=00b3ff">
+  <img align="right" width="49%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrielsborges&size_weight=0.5&count_weight=0.3&layout=compact&theme=blue-green&title_color=00b3ff">
+</div>
+
+<br clear="both">
+
+---
+
+<div align="center" style="margin-top: 30px; margin-bottom: 30px;">
+  <img width="280" height="280" alt="Dream Theater logo" src="https://www.pngkey.com/png/full/265-2653134_dream-theater-png-dream-theater-band-logo-png.png">
+</div>
