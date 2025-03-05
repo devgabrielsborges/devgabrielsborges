@@ -16,8 +16,8 @@ Dream Theater, A7X big fan
 *Last updated: 2025-03-05*
 
 - [The-Jungle](https://github.com/devgabrielsborges/The-Jungle) - The Jungle - Java LPOO
-- [gabrielsborges](https://github.com/devgabrielsborges/gabrielsborges) - homepage
 - [X-Bot](https://github.com/devgabrielsborges/X-Bot) - X-Bot is a Twitter automation bot that posts promotional tweets using data stored in Firebase, generates text with AI via Groq Cloud, and sends notifications via SMS with the Twilio API.
+- [Carpenter](https://github.com/devgabrielsborges/Carpenter) - This project is a job scraping tool that extracts job listings from Jobrapido and Glassdoor. It allows users to search for job titles and export the results to CSV files.
 ## Languages and Tools
 
 <div>
