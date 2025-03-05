@@ -177,13 +177,12 @@ class Repository:
         """
         current_date = datetime.now().strftime("%Y-%m-%d")
         
-        new_cards = ""
-        for i, repo in enumerate(self.active_repos):
-            new_cards += self.generate_card(repo, i)
+        self.working_on_section = "## 🚀 Working on:\n\n"
         
-        self.working_on_section = f"""## 🚀 Working on:
-    
-    {new_cards}<div style="clear: both;"></div>
+        for i, repo in enumerate(self.active_repos):
+            self.working_on_section += self.generate_card(repo, i)
+        
+        self.working_on_section += f"""<div style="clear: both;"></div>
     
     <p align="right"><em>Last updated: {current_date}</em></p>
     """
