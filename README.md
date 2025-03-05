@@ -1,5 +1,5 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30" /> I am I, and I wish I weren't
-Aldous Leonard Huxley</h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30" /> Anxiety is the dizziness of freedom
+Søren Aabye Kierkegaard</h1>
 
 <div style="padding: 15px; margin-top: 20px; margin-bottom: 20px;">
 
