@@ -41,27 +41,23 @@ class Repository:
             return f"# Hello, I'm {self.username}\n\n"
 
     def append_working_section(self):
-        self.working_on_section = "## 🚀 Working on:\n\n"
-        
         current_date = datetime.now().strftime("%Y-%m-%d")
         
-        if not self.active_repos:
-            self.working_on_section += "<p>Attention is all you need.</p>\n\n"
-        else:
-            for i, repo in enumerate(self.active_repos):
-                description = repo.description or "My latest project"
-                alignment = "left" if i % 2 == 0 else "right"
-                float_direction = "left" if i % 2 == 0 else "right"
-                
-                self.working_on_section += f"""<div align="{alignment}" style="width: 48%; float: {float_direction}; clear: both; margin-bottom: 20px; border: 1px solid #2f80ed; border-radius: 10px; padding: 16px; background-color: #0d1117;">
-    <h3><a href="{repo.html_url}">{repo.name}</a></h3>
-    <p>{description}</p>
-    </div>\n\n"""
+        for i, repo in enumerate(self.active_repos):
+            description = repo.description or "No description available"
+            alignment = "left" if i % 2 == 0 else "right"
+            float_direction = "left" if i % 2 == 0 else "right"
             
+            self.working_on_section += f"""<div align="{alignment}" style="width: 48%; float: {float_direction}; clear: both; margin-bottom: 20px; border: 1px solid #2f80ed; border-radius: 10px; padding: 16px; background-color: #0d1117;">
+  <h3><a href="{repo.html_url}">{repo.name}</a></h3>
+  <p>{description}</p>
+</div>\n\n"""
+        
         self.working_on_section += """<div style="clear: both;"></div>
 
-    <p align="right"><em>Last updated: """ + current_date + """</em></p>
-    """
+<p align="right"><em>Last updated: """ + current_date + """</em></p>
+
+"""
 
     def update_readme(self):
         content = self.readme
