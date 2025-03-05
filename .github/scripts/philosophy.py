@@ -19,7 +19,8 @@ class Philosophy:
         try:
             while body == "" or len(body) > 60:
                 response = requests.get(f"https://philosophyapi.pythonanywhere.com/api/ideas/{randint(1, count or 10)}/").json()
-                body = f"{response['quote']}\n{response['author']}"
+                body = f"{response['quote']}<br>###{response['author']}"
+
         except Exception:
             body = "Attention is all you need"
         finally:
