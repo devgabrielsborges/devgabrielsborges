@@ -15,7 +15,6 @@ repo = Repository(
 )
 
 try:
-    repo.prepare_readme()
     repo.populate_active_repos()
     repo.append_working_section()
     repo.update_readme()
