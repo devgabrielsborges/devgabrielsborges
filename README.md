@@ -15,10 +15,9 @@ Dream Theater, A7X big fan
 
 *Last updated: 2025-03-05*
 
-- [devgabrielsborges](https://github.com/devgabrielsborges/devgabrielsborges) - Config files for my GitHub profile.
 - [The-Jungle](https://github.com/devgabrielsborges/The-Jungle) - The Jungle - Java LPOO
 - [gabrielsborges](https://github.com/devgabrielsborges/gabrielsborges) - homepage
-
+- [X-Bot](https://github.com/devgabrielsborges/X-Bot) - X-Bot is a Twitter automation bot that posts promotional tweets using data stored in Firebase, generates text with AI via Groq Cloud, and sends notifications via SMS with the Twilio API.
 ## Languages and Tools
 
 <div>
