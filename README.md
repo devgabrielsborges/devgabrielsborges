@@ -5,10 +5,13 @@
 Full-Stack Developer | Angular | Typescript | FastAPI | Flask | SQLite3 | Web Scraping | Task Automation | RPA | CS50's Certificate | B.Sc. Student of Computer Engineering at Universidade de Pernambuco.
 Actually based in Recife, Brazil.
 
-Dream Theater, A7X big fan
-
-<a href="mailto:dev.gabrielsborges@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://www.linkedin.com/in/devgabrielsborges/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
+<p>
+      <a href="mailto:dev.gabrielsborges@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/></a> <a href="https://www.linkedin.com/in/devgabrielsborges/"><img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
 <a href="https://instagram.com/gabrielsborgees" title="Instagram"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" align="center"/></a>
+      
+</p>
+
+Dream Theater, A7X big fan 
 
 
 ## Working on: 🚀
