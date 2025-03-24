@@ -1,5 +1,5 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30" /> Happiness consists in frequent repetition of pleasure</h1>
-<h3 align="center"><em>— Arthur Schopenhauer</em></h3>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30" /> Nothing great in the world was accomplished without passion</h1>
+<h3 align="center"><em>— Georg Wilhelm Friedrich Hegel</em></h3>
 
 
 <div style="padding: 15px; margin-top: 20px; margin-bottom: 20px;">
