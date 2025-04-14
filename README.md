@@ -1,5 +1,5 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30" /> He who does not act does not exist</h1>
-<h3 align="center"><em>— Gottfried Wilhelm Leibniz</em></h3>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30" /> Every man's memory is his private literature</h1>
+<h3 align="center"><em>— Aldous Leonard Huxley</em></h3>
 
 
 <div style="padding: 15px; margin-top: 20px; margin-bottom: 20px;">
@@ -23,7 +23,7 @@
 
 <div style="clear: both;"></div>
 
-<p align="right"><em>Last updated: 2025-04-13</em></p>
+<p align="right"><em>Last updated: 2025-04-14</em></p>
 
 </div>
 
