@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30" /> I'm claiming the right to be unhappy</h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30" /> Maybe this world is another planet’s hell</h1>
 <h3 align="center"><em>— Aldous Leonard Huxley</em></h3>
 
 
@@ -23,7 +23,7 @@
 
 <div style="clear: both;"></div>
 
-<p align="right"><em>Last updated: 2025-04-16</em></p>
+<p align="right"><em>Last updated: 2025-04-17</em></p>
 
 </div>
 
