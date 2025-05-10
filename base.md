@@ -9,10 +9,7 @@
 
 ---
 
-<div class="stats">
-  <img align="left" width="49%" height="180" src="https://github-readme-stats.vercel.app/api?username=devgabrielsborges&show_icons=true&theme=blue-green&title_color=00b3ff">
-  <img align="right" width="49%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrielsborges&size_weight=0.5&count_weight=0.3&layout=compact&theme=blue-green&title_color=00b3ff">
-</div>
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <br clear="both">
 
