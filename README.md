@@ -1,5 +1,5 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30" /> Why is there something rather than nothing?</h1>
-<h3 align="center"><em>— Gottfried Wilhelm Leibniz</em></h3>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30" /> Perfect numbers like perfect men are very rare.</h1>
+<h3 align="center"><em>— René Descartes</em></h3>
 
 
 <div style="padding: 15px; margin-top: 20px; margin-bottom: 20px;">
@@ -36,5 +36,5 @@
 ---
 
 <div align="center" style="margin-top: 30px; margin-bottom: 30px;">
-  <img width="280" height="280" alt="Dream Theater logo" src="https://www.pngkey.com/png/full/265-2653134_dream-theater-png-dream-theater-band-logo-png.png">
+  <img width="280" height="280" alt="Dream Theater logo" src="https://metalstorm.net/bands/biography.php?band_id=92&bandname=Dream+Theater">
 </div>
