@@ -1,5 +1,5 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30" /> Perfect numbers like perfect men are very rare.</h1>
-<h3 align="center"><em>— René Descartes</em></h3>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30" /> Happiness is not an ideal of reason, but of imagination.</h1>
+<h3 align="center"><em>— Immanuel Kant</em></h3>
 
 
 <div style="padding: 15px; margin-top: 20px; margin-bottom: 20px;">
@@ -23,7 +23,7 @@
 
 <div style="clear: both;"></div>
 
-<p align="right"><em>Last updated: 2025-05-16</em></p>
+<p align="right"><em>Last updated: 2025-05-17</em></p>
 
 </div>
 
