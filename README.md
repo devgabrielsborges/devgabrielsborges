@@ -1,5 +1,5 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30" /> No social stability without individual stability</h1>
-<h3 align="center"><em>— Aldous Leonard Huxley</em></h3>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30" /> Only one man ever understood me, and he didn't understand me</h1>
+<h3 align="center"><em>— Georg Wilhelm Friedrich Hegel</em></h3>
 
 
 <div style="padding: 15px; margin-top: 20px; margin-bottom: 20px;">
@@ -7,23 +7,23 @@
 ## 🚀 Working on:
 
 <div class="card" align="left" style="width: 48%; float: left; clear: both; margin-bottom: 20px; border: 1px solid #2f80ed; border-radius: 10px; padding: 16px; background-color: #0d1117;">
+  <h3><a href="https://github.com/devgabrielsborges/filewatcher">filewatcher</a></h3>
+  <p>Watcher for trigger functions or routines </p>
+</div>
+
+<div class="card" align="right" style="width: 48%; float: right; clear: both; margin-bottom: 20px; border: 1px solid #2f80ed; border-radius: 10px; padding: 16px; background-color: #0d1117;">
   <h3><a href="https://github.com/devgabrielsborges/devgabrielsborges.github.io">devgabrielsborges.github.io</a></h3>
   <p>website</p>
 </div>
 
-<div class="card" align="right" style="width: 48%; float: right; clear: both; margin-bottom: 20px; border: 1px solid #2f80ed; border-radius: 10px; padding: 16px; background-color: #0d1117;">
+<div class="card" align="left" style="width: 48%; float: left; clear: both; margin-bottom: 20px; border: 1px solid #2f80ed; border-radius: 10px; padding: 16px; background-color: #0d1117;">
   <h3><a href="https://github.com/devgabrielsborges/filesearch">filesearch</a></h3>
   <p>Filesearch implementation using Deque, Stack, and Deboucing </p>
 </div>
 
-<div class="card" align="left" style="width: 48%; float: left; clear: both; margin-bottom: 20px; border: 1px solid #2f80ed; border-radius: 10px; padding: 16px; background-color: #0d1117;">
-  <h3><a href="https://github.com/devgabrielsborges/anomaly-detection-c2beaconing-fl">anomaly-detection-c2beaconing-fl</a></h3>
-  <p>Anomaly Detection in C2 Beaconing Traffic Using Privacy Preserving Federated Learning</p>
-</div>
-
 <div style="clear: both;"></div>
 
-<p align="right"><em>Last updated: 2025-10-16</em></p>
+<p align="right"><em>Last updated: 2025-10-17</em></p>
 
 </div>
 
