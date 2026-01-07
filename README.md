@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30" /> Treat a work of art like a prince: let it speak to you first</h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30" /> Mostly it is loss which teaches us about the worth of things</h1>
 <h3 align="center"><em>— Arthur Schopenhauer</em></h3>
 
 
@@ -7,23 +7,23 @@
 ## 🚀 Working on:
 
 <div class="card" align="left" style="width: 48%; float: left; clear: both; margin-bottom: 20px; border: 1px solid #2f80ed; border-radius: 10px; padding: 16px; background-color: #0d1117;">
-  <h3><a href="https://github.com/devgabrielsborges/devgabrielsborges.github.io">devgabrielsborges.github.io</a></h3>
-  <p>website</p>
+  <h3><a href="https://github.com/devgabrielsborges/fcca_fl">fcca_fl</a></h3>
+  <p>FCCA implementation for Federated Learning</p>
 </div>
 
 <div class="card" align="right" style="width: 48%; float: right; clear: both; margin-bottom: 20px; border: 1px solid #2f80ed; border-radius: 10px; padding: 16px; background-color: #0d1117;">
-  <h3><a href="https://github.com/devgabrielsborges/kaggle_house_prices_competition">kaggle_house_prices_competition</a></h3>
-  <p>Repo for keeping files for Kaggle House Prices prediction competition</p>
+  <h3><a href="https://github.com/devgabrielsborges/fcca">fcca</a></h3>
+  <p>FCCA implementation for Federated Learning</p>
 </div>
 
 <div class="card" align="left" style="width: 48%; float: left; clear: both; margin-bottom: 20px; border: 1px solid #2f80ed; border-radius: 10px; padding: 16px; background-color: #0d1117;">
-  <h3><a href="https://github.com/devgabrielsborges/knowledge_graphs">knowledge_graphs</a></h3>
-  <p>Knowledge Graphs project</p>
+  <h3><a href="https://github.com/devgabrielsborges/housing">housing</a></h3>
+  <p>A comparison in house price classification with LogisticRegression, SVM, DecisionTree, GradientBoosting and XGBoost</p>
 </div>
 
 <div style="clear: both;"></div>
 
-<p align="right"><em>Last updated: 2026-01-06</em></p>
+<p align="right"><em>Last updated: 2026-01-07</em></p>
 
 </div>
 
