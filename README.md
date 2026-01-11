@@ -1,5 +1,5 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30" /> World history is a court of judgment</h1>
-<h3 align="center"><em>— Georg Wilhelm Friedrich Hegel</em></h3>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30" /> What can I know? What ought I to do? What can I hope?</h1>
+<h3 align="center"><em>— Immanuel Kant</em></h3>
 
 
 <div style="padding: 15px; margin-top: 20px; margin-bottom: 20px;">
@@ -12,13 +12,13 @@
 </div>
 
 <div class="card" align="right" style="width: 48%; float: right; clear: both; margin-bottom: 20px; border: 1px solid #2f80ed; border-radius: 10px; padding: 16px; background-color: #0d1117;">
-  <h3><a href="https://github.com/devgabrielsborges/Space-Invaders-QLearning">Space-Invaders-QLearning</a></h3>
-  <p>Reinforcement Learning approach with QLearning algorithm in Space Invaders game</p>
+  <h3><a href="https://github.com/devgabrielsborges/titanic">titanic</a></h3>
+  <p>Titanic - Machine Learning from Disaster</p>
 </div>
 
 <div class="card" align="left" style="width: 48%; float: left; clear: both; margin-bottom: 20px; border: 1px solid #2f80ed; border-radius: 10px; padding: 16px; background-color: #0d1117;">
-  <h3><a href="https://github.com/devgabrielsborges/anomaly-detection-c2beaconing-fl">anomaly-detection-c2beaconing-fl</a></h3>
-  <p>Anomaly Detection in C2 Beaconing Traffic Using Privacy Preserving Federated Learning</p>
+  <h3><a href="https://github.com/devgabrielsborges/Space-Invaders-QLearning">Space-Invaders-QLearning</a></h3>
+  <p>Reinforcement Learning approach with QLearning algorithm in Space Invaders game</p>
 </div>
 
 <div style="clear: both;"></div>
