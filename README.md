@@ -1,5 +1,5 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30" /> What can I know? What ought I to do? What can I hope?</h1>
-<h3 align="center"><em>— Immanuel Kant</em></h3>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30" /> Mostly it is loss which teaches us about the worth of things</h1>
+<h3 align="center"><em>— Arthur Schopenhauer</em></h3>
 
 
 <div style="padding: 15px; margin-top: 20px; margin-bottom: 20px;">
@@ -23,7 +23,7 @@
 
 <div style="clear: both;"></div>
 
-<p align="right"><em>Last updated: 2026-01-11</em></p>
+<p align="right"><em>Last updated: 2026-01-12</em></p>
 
 </div>
 
