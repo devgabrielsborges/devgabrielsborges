@@ -16,5 +16,5 @@
 ---
 
 <div align="center" style="margin-top: 30px; margin-bottom: 30px;">
-  <img width="280" height="280" alt="Dream Theater logo" src="https://metalstorm.net/bands/biography.php?band_id=92&bandname=Dream+Theater">
+  <img width="280" height="280" alt="Dream Theater logo" src="dt.png">
 </div>
