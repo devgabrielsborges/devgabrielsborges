@@ -1,5 +1,5 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30" /> You shall know the truth and the truth shall make you mad</h1>
-<h3 align="center"><em>— Aldous Leonard Huxley</em></h3>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30" /> Anxiety is the dizziness of freedom</h1>
+<h3 align="center"><em>— Søren Aabye Kierkegaard</em></h3>
 
 
 <div style="padding: 15px; margin-top: 20px; margin-bottom: 20px;">
@@ -7,18 +7,18 @@
 ## 🚀 Working on:
 
 <div class="card" align="left" style="width: 48%; float: left; clear: both; margin-bottom: 20px; border: 1px solid #2f80ed; border-radius: 10px; padding: 16px; background-color: #0d1117;">
-  <h3><a href="https://github.com/devgabrielsborges/weni_agent_team_example">weni_agent_team_example</a></h3>
-  <p>My latest project</p>
+  <h3><a href="https://github.com/devgabrielsborges/kaggle-competition-template">kaggle-competition-template</a></h3>
+  <p>Kaggle Competition template </p>
 </div>
 
 <div class="card" align="right" style="width: 48%; float: right; clear: both; margin-bottom: 20px; border: 1px solid #2f80ed; border-radius: 10px; padding: 16px; background-color: #0d1117;">
-  <h3><a href="https://github.com/devgabrielsborges/mlflow_agent_tracking">mlflow_agent_tracking</a></h3>
-  <p>A comprehensive framework for tracking, evaluating, and managing LLM agents using MLflow. This project provides end-to-end pipelines for dataset preprocessing, prompt management, model evaluation, and experiment tracking</p>
+  <h3><a href="https://github.com/devgabrielsborges/student_test_scores">student_test_scores</a></h3>
+  <p>My latest project</p>
 </div>
 
 <div class="card" align="left" style="width: 48%; float: left; clear: both; margin-bottom: 20px; border: 1px solid #2f80ed; border-radius: 10px; padding: 16px; background-color: #0d1117;">
-  <h3><a href="https://github.com/devgabrielsborges/dynamic_clustering_fl_health_conditions">dynamic_clustering_fl_health_conditions</a></h3>
-  <p>Dynamic Clustering Federated Learning in Concept Drift Scenarios on Health Conditions</p>
+  <h3><a href="https://github.com/devgabrielsborges/weni_agent_team_example">weni_agent_team_example</a></h3>
+  <p>My latest project</p>
 </div>
 
 <div style="clear: both;"></div>
