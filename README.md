@@ -1,5 +1,5 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30" /> Science is organized knowledge. Wisdom is organized life.</h1>
-<h3 align="center"><em>— Immanuel Kant</em></h3>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30" /> I think, therefore I am</h1>
+<h3 align="center"><em>— René Descartes</em></h3>
 
 
 <div style="padding: 15px; margin-top: 20px; margin-bottom: 20px;">
@@ -7,13 +7,13 @@
 ## 🚀 Working on:
 
 <div class="card" align="left" style="width: 48%; float: left; clear: both; margin-bottom: 20px; border: 1px solid #2f80ed; border-radius: 10px; padding: 16px; background-color: #0d1117;">
-  <h3><a href="https://github.com/devgabrielsborges/march_machine_learning_mania_2026">march_machine_learning_mania_2026</a></h3>
-  <p>March Machine Learning Mania 2026</p>
+  <h3><a href="https://github.com/devgabrielsborges/ralph_codex">ralph_codex</a></h3>
+  <p>Ralph Loops on Codex</p>
 </div>
 
 <div class="card" align="right" style="width: 48%; float: right; clear: both; margin-bottom: 20px; border: 1px solid #2f80ed; border-radius: 10px; padding: 16px; background-color: #0d1117;">
-  <h3><a href="https://github.com/devgabrielsborges/predict_customer_churn">predict_customer_churn</a></h3>
-  <p>Predict Customer Churn Kaggle Competition</p>
+  <h3><a href="https://github.com/devgabrielsborges/autorriculum">autorriculum</a></h3>
+  <p>LLM based application for creating CVs based on your GitHub and LinkedIn profile</p>
 </div>
 
 <div class="card" align="left" style="width: 48%; float: left; clear: both; margin-bottom: 20px; border: 1px solid #2f80ed; border-radius: 10px; padding: 16px; background-color: #0d1117;">
@@ -23,7 +23,7 @@
 
 <div style="clear: both;"></div>
 
-<p align="right"><em>Last updated: 2026-03-07</em></p>
+<p align="right"><em>Last updated: 2026-03-08</em></p>
 
 </div>
 
