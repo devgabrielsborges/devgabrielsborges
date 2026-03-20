@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30" /> What can I know? What ought I to do? What can I hope?</h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30" /> An action, to have moral worth, must be done from duty.</h1>
 <h3 align="center"><em>— Immanuel Kant</em></h3>
 
 
@@ -23,7 +23,7 @@
 
 <div style="clear: both;"></div>
 
-<p align="right"><em>Last updated: 2026-03-19</em></p>
+<p align="right"><em>Last updated: 2026-03-20</em></p>
 
 </div>
 
