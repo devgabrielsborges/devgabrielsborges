@@ -7,18 +7,18 @@
 ## 🚀 Working on:
 
 <div class="card" align="left" style="width: 48%; float: left; clear: both; margin-bottom: 20px; border: 1px solid #2f80ed; border-radius: 10px; padding: 16px; background-color: #0d1117;">
+  <h3><a href="https://github.com/devgabrielsborges/dynamic_clustering_fl_health_conditions">dynamic_clustering_fl_health_conditions</a></h3>
+  <p>Dynamic Clustering Federated Learning in Concept Drift Scenarios on Health Conditions</p>
+</div>
+
+<div class="card" align="right" style="width: 48%; float: right; clear: both; margin-bottom: 20px; border: 1px solid #2f80ed; border-radius: 10px; padding: 16px; background-color: #0d1117;">
   <h3><a href="https://github.com/devgabrielsborges/PlantCLEF2026">PlantCLEF2026</a></h3>
   <p>PlantCLEF2026 @ LifeCLEF & CVPR-FGVC</p>
 </div>
 
-<div class="card" align="right" style="width: 48%; float: right; clear: both; margin-bottom: 20px; border: 1px solid #2f80ed; border-radius: 10px; padding: 16px; background-color: #0d1117;">
+<div class="card" align="left" style="width: 48%; float: left; clear: both; margin-bottom: 20px; border: 1px solid #2f80ed; border-radius: 10px; padding: 16px; background-color: #0d1117;">
   <h3><a href="https://github.com/devgabrielsborges/base_kaggle_comp">base_kaggle_comp</a></h3>
   <p>Kaggle Competition Template Repository</p>
-</div>
-
-<div class="card" align="left" style="width: 48%; float: left; clear: both; margin-bottom: 20px; border: 1px solid #2f80ed; border-radius: 10px; padding: 16px; background-color: #0d1117;">
-  <h3><a href="https://github.com/devgabrielsborges/X-Bot">X-Bot</a></h3>
-  <p>X-Bot is a Twitter/X automation bot that posts promotional tweets using data stored in Firebase, generates text with AI via Groq Cloud, and sends notifications via SMS with the Twilio API.</p>
 </div>
 
 <div style="clear: both;"></div>
