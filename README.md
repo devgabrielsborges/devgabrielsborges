@@ -7,23 +7,23 @@
 ## 🚀 Working on:
 
 <div class="card" align="left" style="width: 48%; float: left; clear: both; margin-bottom: 20px; border: 1px solid #2f80ed; border-radius: 10px; padding: 16px; background-color: #0d1117;">
-  <h3><a href="https://github.com/devgabrielsborges/dynamic_clustering_fl_health_conditions">dynamic_clustering_fl_health_conditions</a></h3>
-  <p>Dynamic Clustering Federated Learning in Concept Drift Scenarios on Health Conditions</p>
+  <h3><a href="https://github.com/devgabrielsborges/handmark">handmark</a></h3>
+  <p>Transform handwritten notes into .md files in seconds</p>
 </div>
 
 <div class="card" align="right" style="width: 48%; float: right; clear: both; margin-bottom: 20px; border: 1px solid #2f80ed; border-radius: 10px; padding: 16px; background-color: #0d1117;">
-  <h3><a href="https://github.com/devgabrielsborges/PlantCLEF2026">PlantCLEF2026</a></h3>
-  <p>PlantCLEF2026 @ LifeCLEF & CVPR-FGVC</p>
+  <h3><a href="https://github.com/devgabrielsborges/ai-researcher-engineer-spec">ai-researcher-engineer-spec</a></h3>
+  <p>AI-Researcher-Engineer Spec-Kit Template</p>
 </div>
 
 <div class="card" align="left" style="width: 48%; float: left; clear: both; margin-bottom: 20px; border: 1px solid #2f80ed; border-radius: 10px; padding: 16px; background-color: #0d1117;">
-  <h3><a href="https://github.com/devgabrielsborges/base_kaggle_comp">base_kaggle_comp</a></h3>
-  <p>Kaggle Competition Template Repository</p>
+  <h3><a href="https://github.com/devgabrielsborges/camel">camel</a></h3>
+  <p>A plug'n'play evaluation pipeline for AI Agents. Deterministic scorers, MLflow tracking</p>
 </div>
 
 <div style="clear: both;"></div>
 
-<p align="right"><em>Last updated: 2026-05-01</em></p>
+<p align="right"><em>Last updated: 2026-05-02</em></p>
 
 </div>
 
