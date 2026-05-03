@@ -8,7 +8,7 @@
 
 <div class="card" align="left" style="width: 48%; float: left; clear: both; margin-bottom: 20px; border: 1px solid #2f80ed; border-radius: 10px; padding: 16px; background-color: #0d1117;">
   <h3><a href="https://github.com/devgabrielsborges/camel">camel</a></h3>
-  <p>A plug'n'play evaluation pipeline for AI Agents. Deterministic scorers, MLflow tracking</p>
+  <p>CAMEL — Capability Assessment Methodology for Evaluating LLMs</p>
 </div>
 
 <div class="card" align="right" style="width: 48%; float: right; clear: both; margin-bottom: 20px; border: 1px solid #2f80ed; border-radius: 10px; padding: 16px; background-color: #0d1117;">
