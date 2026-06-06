@@ -23,7 +23,7 @@
 
 <div style="clear: both;"></div>
 
-<p align="right"><em>Last updated: 2026-06-05</em></p>
+<p align="right"><em>Last updated: 2026-06-06</em></p>
 
 </div>
 
