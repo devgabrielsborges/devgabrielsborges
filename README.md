@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30" /> One should use common words to say uncommon things</h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30" /> Happiness consists in frequent repetition of pleasure</h1>
 <h3 align="center"><em>— Arthur Schopenhauer</em></h3>
 
 
@@ -23,7 +23,7 @@
 
 <div style="clear: both;"></div>
 
-<p align="right"><em>Last updated: 2026-06-25</em></p>
+<p align="right"><em>Last updated: 2026-06-26</em></p>
 
 </div>
 
