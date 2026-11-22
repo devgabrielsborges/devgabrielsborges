@@ -1,5 +1,5 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30" /> No social stability without individual stability</h1>
-<h3 align="center"><em>— Aldous Leonard Huxley</em></h3>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="30" /> Man can do what he wills but he cannot will what he wills.</h1>
+<h3 align="center"><em>— Arthur Schopenhauer</em></h3>
 
 
 <div style="padding: 15px; margin-top: 20px; margin-bottom: 20px;">
@@ -7,23 +7,23 @@
 ## 🚀 Working on:
 
 <div class="card" align="left" style="width: 48%; float: left; clear: both; margin-bottom: 20px; border: 1px solid #2f80ed; border-radius: 10px; padding: 16px; background-color: #0d1117;">
+  <h3><a href="https://github.com/devgabrielsborges/companies">companies</a></h3>
+  <p>My latest project</p>
+</div>
+
+<div class="card" align="right" style="width: 48%; float: right; clear: both; margin-bottom: 20px; border: 1px solid #2f80ed; border-radius: 10px; padding: 16px; background-color: #0d1117;">
   <h3><a href="https://github.com/devgabrielsborges/fipex-bot">fipex-bot</a></h3>
   <p>A Telegram Agent for helping with FIPE index</p>
 </div>
 
-<div class="card" align="right" style="width: 48%; float: right; clear: both; margin-bottom: 20px; border: 1px solid #2f80ed; border-radius: 10px; padding: 16px; background-color: #0d1117;">
-  <h3><a href="https://github.com/devgabrielsborges/knowledge_distillation">knowledge_distillation</a></h3>
-  <p>My latest project</p>
-</div>
-
 <div class="card" align="left" style="width: 48%; float: left; clear: both; margin-bottom: 20px; border: 1px solid #2f80ed; border-radius: 10px; padding: 16px; background-color: #0d1117;">
-  <h3><a href="https://github.com/devgabrielsborges/trabProgEstatistca">trabProgEstatistca</a></h3>
+  <h3><a href="https://github.com/devgabrielsborges/knowledge_distillation">knowledge_distillation</a></h3>
   <p>My latest project</p>
 </div>
 
 <div style="clear: both;"></div>
 
-<p align="right"><em>Last updated: 2026-11-21</em></p>
+<p align="right"><em>Last updated: 2026-11-22</em></p>
 
 </div>
 
